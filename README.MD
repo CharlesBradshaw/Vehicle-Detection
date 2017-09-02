@@ -5,12 +5,12 @@ alt="Video Link" width="1280" height="720" border="10" /></a>
 
 ## Project Goals
 
-*Perform a Histogram of Oriented Gradients (HOG) feature extraction on a labeled training set of images and train a classifier Linear SVM classifier
-*Apply a color transform and append binned color features, as well as histograms of color, to your HOG feature vector.
-*Implement a sliding-window technique and use your trained classifier to search for vehicles in images.
-*Create a heat map of recurring detections frame by frame to reject outliers
-*Estimate a bounding box for vehicles detected.
-*Run the pipeline on a video stream and  and follow detected vehicles.
+* Perform a Histogram of Oriented Gradients (HOG) feature extraction on a labeled training set of images and train a classifier Linear SVM classifier
+* Apply a color transform and append binned color features, as well as histograms of color, to your HOG feature vector.
+* Implement a sliding-window technique and use your trained classifier to search for vehicles in images.
+* Create a heat map of recurring detections frame by frame to reject outliers
+* Estimate a bounding box for vehicles detected.
+* Run the pipeline on a video stream and  and follow detected vehicles.
 
 
 [image1]: /markdown_images/hog.png "Histogram of Gradients"
